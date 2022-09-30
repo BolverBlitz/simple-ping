@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "ping": "^0.4.2",
+    "rotating-file-stream": "^3.0.4"
+  },
+  "name": "simple-ping",
+  "version": "1.0.0",
+  "description": "Simple tool to quickly monitor a host",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ping",
+    "Monitoring",
+    "Downtime",
+    "dedection",
+    "debugging"
+  ],
+  "author": "BolverBlitz",
+  "license": "MIT"
+}
